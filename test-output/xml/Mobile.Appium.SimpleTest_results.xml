@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.010">
+  <properties />
+  
+  
+            <testcase name="Test1" time="0.008" classname="Mobile.Appium.SimpleTest" />
+                <testcase name="TestingReports" time="0.001" classname="Mobile.Appium.SimpleTest" />
+                <testcase name="TestingReports1" time="0.001" classname="Mobile.Appium.SimpleTest" />
+      
+</testsuite>

@@ -1,0 +1,7 @@
+{
+    "Dublin_city": "//android.widget.TextView[@text='Dublin']",
+    "London_city": "//android.widget.TextView[@text='London']",
+    "NewYork_city": "//android.widget.TextView[@text='New York']",
+    "Barcelona_city": "//android.widget.TextView[@text='Barcelona']",
+    "City_Temperature_textview": "//android.widget.TextView[contains(@resource-id,':id/textview_temperature')]"
+}

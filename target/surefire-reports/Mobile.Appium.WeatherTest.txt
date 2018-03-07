@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: Mobile.Appium.WeatherTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 22.227 sec <<< FAILURE!
+checkWeathertemperature(Mobile.Appium.WeatherTest)  Time elapsed: 9.148 sec  <<< FAILURE!
+java.lang.AssertionError: App Temperature: 39 & Live API Temperature: 39.08 are not equal. expected [39.08] but found [39]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:496)
+	at org.testng.Assert.assertEquals(Assert.java:125)
+	at org.testng.Assert.assertEquals(Assert.java:178)
+	at Mobile.Appium.BaseSteps.verifyText(BaseSteps.java:133)
+	at Mobile.Appium.WeatherTest.checkWeathertemperature(WeatherTest.java:101)
+
